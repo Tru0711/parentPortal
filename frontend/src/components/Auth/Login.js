@@ -109,22 +109,7 @@ const Login = () => {
                   </Link>
                 </div>
 
-                <hr className="my-4" />
-                <div className="text-center">
-                  <small className="text-muted">
-                    <strong>Demo Accounts:</strong>
-                    <br />
-                    Admin: admin@school.edu
-                    <br />
-                    Teacher: teacher@school.edu
-                    <br />
-                    Parent: parent@example.com
-                    <br />
-                    Student: student@example.com
-                    <br />
-                    Password: password123
-                  </small>
-                </div>
+                
               </Card.Body>
             </Card>
           </Col>
